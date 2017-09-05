@@ -1,0 +1,18 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "I am testing Node",
+  "main": "bot1.js",
+  "scripts": {
+    "start": "node bot1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Jason Navarro",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
